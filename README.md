@@ -1,6 +1,8 @@
 # Rxjs
 
+For those of you (like me) who keep forgetting RxJS operators and whatnot. Built on Angular 6.
 
+# Angular Readme
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
